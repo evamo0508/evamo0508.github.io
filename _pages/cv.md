@@ -33,19 +33,19 @@ it to the PicCollage mobile app.
   * Constructed independently a monocular visual odometry system aimed for drones.
   * Implemented ORB feature extraction with OpenCV and local pose optimization with G2O in C++.
 
-Projects
+Selected Projects
 =====
-* Visual Search with Semantic Segmentation on ORB SLAM, National Taiwan University |Sep 2018-Jun 2019
+* Visual Search with Semantic Segmentation on ORB SLAM, National Taiwan University, Sep 2018-Jun 2019
   * Combined ORB SLAM and semantic segmentation on each frame into a real-time system that builds semantic point
 cloud
   * Designed an effective algorithm to localize target objects in 3D maps.
-* Real-time 3D Reconstruction Using Visual SLAM, National Taiwan University |Jan-Jun 2018
+* Real-time 3D Reconstruction Using Visual SLAM, National Taiwan University, Jan-Jun 2018
   * Used Zed stereo camera and Kinect 2 RGB-D camera to implement mapping and localization.
   * Developed Real-Time Appearance-Based Mapping (RTAB-Map) with ROS.
-* Robots Gain Social Intelligence Through Reinforcement Learning, National Taiwan University |Jun 2018
+* Robots Gain Social Intelligence Through Reinforcement Learning, National Taiwan University, Jun 2018
   * Trained the humanoid robot Pepper to learn basic social skills through Proximal Policy Optimization in deep rein- forcement learning, including understanding in what situation it should greet, say bye-bye, shake hands, or simply do
 nothing.
-* Service Robot for Deaf and Speech-impaired People, National Taiwan University |Oct-Dec 2017
+* Service Robot for Deaf and Speech-impaired People, National Taiwan University, Oct-Dec 2017
   * Trained a convolutional neuron network to recognize sign language videos.
   * Implemented the system to a service humanoid robot to assist deaf and speech-impaired people.
 
