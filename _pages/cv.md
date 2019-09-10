@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Science in Robotics System Development, Carnegie Mellon University, School of Computer Science, 2021(expected)
+* Bachelor of Science in Electrical Engineering, National Taiwan University, 2019
+
+Skills
+======
+* Programming Languages: Python, ROS, C/C++, Verilog, LaTex
+* Tools: OpenCV, MATLAB, Pytorch, Tensor􏰄ow, Labview
+* Computing Environments: Linux, Windows, MacOS, Arduino, Raspberry Pi
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb-Jun 2019: Machine Learning Intern
+  * Cardinal Blue Software, Taipei, Taiwan
+  * Trained a semantic segmentation model with Mobilenetv2 structure that cut out people from an image and deployed
+it to the PicCollage mobile app.
+  * Achieved 83% IOU with model size <10mb, 6% better than the o􏰅cial released version.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jul-Aug 2018 2018: Summer Intern
+  * Coretronic Corporation, Hsinchu, Taiwan
+  * Constructed independently a monocular visual odometry system aimed for drones.
+  * Implemented ORB feature extraction with OpenCV and local pose optimization with G2O in C++.
 
-Publications
+Projects
+=====
+* Visual Search with Semantic Segmentation on ORB SLAM, National Taiwan University |Sep 2018-Jun 2019
+  * Combined ORB SLAM and semantic segmentation on each frame into a real-time system that builds semantic point
+cloud
+  * Designed an e􏰃ective algorithm to localize target objects in 3D maps.
+* Real-time 3D Reconstruction Using Visual SLAM, National Taiwan University |Jan-Jun 2018
+  * Used Zed stereo camera and Kinect 2 RGB-D camera to implement mapping and localization.
+  * Developed Real-Time Appearance-Based Mapping (RTAB-Map) with ROS.
+* Robots Gain Social Intelligence Through Reinforcement Learning, National Taiwan University |Jun 2018
+  * Trained the humanoid robot Pepper to learn basic social skills through Proximal Policy Optimization in deep rein- forcement learning, including understanding in what situation it should greet, say bye-bye, shake hands, or simply do
+nothing.
+* Service Robot for Deaf and Speech-impaired People, National Taiwan University |Oct-Dec 2017
+  * Trained a convolutional neuron network to recognize sign language videos.
+  * Implemented the system to a service humanoid robot to assist deaf and speech-impaired people.
+
+Leadership & Awards
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* STMicroelectronics Sponsor Prize, 2019 MakeNTU LAzITech Hackathon, Mar 2019
+* Academic Coordinator, Electrical Engineering Student Association, National Taiwan University, Sep 2017-Jun 2018
+* General Coordinator, 2018 MakeNTU AInsight Hackathon, Mar 2018
+  * Led a team over 70 members to organize this 5-day hackathon about AI for undergraduates all over Taiwan.
+  * Touched base with Ministry of Education, Ministry of Science and Technology, Industrial Technology Research Insti- tute, and plenty of companies for partnership and sponsorship.
+  * Check our website [here](https://make.ntuee.org/).
+
