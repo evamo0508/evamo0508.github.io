@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eva Mo"
 title_separator          : "-"
 name                     : &name "Szu-Yu Mo"
-description              : &description "Currently pursuing Master's degree at Carnegie Mellon University Robotics. Interested in SLAM, Robotics, Computer Vision."
+description              : &description "Carnegie Mellon University Robotics. SLAM, Robotics, and Computer Vision."
 url                      : https://evamo0508.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "evamo0508/evamo0508.github.io"
@@ -175,16 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  projects:
     output: true
     permalink: /:collection/:path/
-  publications:
+  keyboards:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  music:
     output: true
     permalink: /:collection/:path/
 
@@ -209,39 +206,30 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _projects
   - scope:
       path: ""
-      type: teaching
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _keyboards
   - scope:
       path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
+      type: keyboards
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _music
   - scope:
       path: ""
-      type: talks
+      type: music
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
