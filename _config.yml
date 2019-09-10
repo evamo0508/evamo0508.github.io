@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Szu-Yu Eva Mo"
+  name             : "Szu-Yu Mo"
   avatar           : "profile.png"
   bio              : "Currently pursuing Master's degree at Carnegie Mellon University Robotics. Interested in SLAM, Robotics, Computer Vision."
   location         : "Pittsburgh, PA"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/momobk46"
+  facebook         : "momobk46"
   foursquare       :
   github           : "evamo0508"
   google_plus      :
