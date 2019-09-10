@@ -26,7 +26,7 @@ Work experience
   * Cardinal Blue Software, Taipei, Taiwan
   * Trained a semantic segmentation model with Mobilenetv2 structure that cut out people from an image and deployed
 it to the PicCollage mobile app.
-  * Achieved 83% IOU with model size <10mb, 6% better than the o􏰅cial released version.
+  * Achieved 83% IOU with model size <10mb, 6% better than the official released version.
 
 * Jul-Aug 2018 2018: Summer Intern
   * Coretronic Corporation, Hsinchu, Taiwan
@@ -38,7 +38,7 @@ Projects
 * Visual Search with Semantic Segmentation on ORB SLAM, National Taiwan University |Sep 2018-Jun 2019
   * Combined ORB SLAM and semantic segmentation on each frame into a real-time system that builds semantic point
 cloud
-  * Designed an e􏰃ective algorithm to localize target objects in 3D maps.
+  * Designed an effective algorithm to localize target objects in 3D maps.
 * Real-time 3D Reconstruction Using Visual SLAM, National Taiwan University |Jan-Jun 2018
   * Used Zed stereo camera and Kinect 2 RGB-D camera to implement mapping and localization.
   * Developed Real-Time Appearance-Based Mapping (RTAB-Map) with ROS.
@@ -52,7 +52,7 @@ nothing.
 Leadership & Awards
 ======
 * STMicroelectronics Sponsor Prize, 2019 MakeNTU LAzITech Hackathon, Mar 2019
-* Academic Coordinator, Electrical Engineering Student Association, National Taiwan University, Sep 2017-Jun 2018
+* Academic Coordinator, [Electrical Engineering Student Association](https://www.facebook.com/ntuee.org/), National Taiwan University, Sep 2017-Jun 2018
 * General Coordinator, 2018 MakeNTU AInsight Hackathon, Mar 2018
   * Led a team over 70 members to organize this 5-day hackathon about AI for undergraduates all over Taiwan.
   * Touched base with Ministry of Education, Ministry of Science and Technology, Industrial Technology Research Insti- tute, and plenty of companies for partnership and sponsorship.
