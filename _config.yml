@@ -178,10 +178,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  keyboards:
-    output: true
-    permalink: /:collection/:path/
-  music:
+  interests:
     output: true
     permalink: /:collection/:path/
 
@@ -215,23 +212,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _keyboards
+  # _interests
   - scope:
       path: ""
-      type: keyboards
+      type: interests
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _music
-  - scope:
-      path: ""
-      type: music
-    values:
-      layout: single
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
