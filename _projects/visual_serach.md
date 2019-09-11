@@ -1,13 +1,6 @@
 ---
 title: "Visual Search and Navigation on Semantic SLAM"
 collection: projects
-permalink: /projects/visual_search
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-d
-
----
-title: "Visual Search and Navigation on Semantic SLAM"
-collection: projects
 type: "Undergraduate research"
 permalink: /projects/visual_search
 venue: "Intelligent Robot Lab, National Taiwan University"
