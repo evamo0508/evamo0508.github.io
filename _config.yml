@@ -178,9 +178,6 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  interests:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -212,15 +209,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _interests
-  - scope:
-      path: ""
-      type: interests
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
