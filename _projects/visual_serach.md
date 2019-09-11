@@ -4,7 +4,7 @@ collection: projects
 type: "Undergraduate research"
 permalink: /projects/visual_search
 venue: "Intelligent Robot Lab, National Taiwan University"
-date: 2019-06-30
+date: 2019-06-25
 location: "Taipei, Taiwan"
 ---
 
@@ -25,11 +25,11 @@ Although the system requires improvement for accuracy, it is now a complete visu
 Report
 ======
 I worked on this project for two semesters. As a result, there are two reports according to each semester.
-1st semester: [report](http://evamo0508.github.io/files/2018Fall-IntelligentRobotLab-VisualSearch.pdf)
-2nd semester: [report](http://evamo0508.github.io/files/2019Spring-IntelligentRobotLab-VisualSearch.pdf)
+* 1st semester: [report](http://evamo0508.github.io/files/2018Fall-IntelligentRobotLab-VisualSearch.pdf)
+* 2nd semester: [report](http://evamo0508.github.io/files/2019Spring-IntelligentRobotLab-VisualSearch.pdf)
 
 Demo Video
 ======
-SLAM generating semantic cloud: [video](https://drive.google.com/file/d/13WXFYHC0hlNgMXLzRmV7hypxP5TygQem/view?usp=sharing)
-Navigating to sofa: [video](https://drive.google.com/file/d/1zIc7AbNamPJLpbrz8zDTxw0Pp96S0Rvh/view?usp=sharing)
-Navigating to table: [video](https://drive.google.com/file/d/1H5fR3RUE8n3YiWmMPbDvjZMg4Z1dhT_6/view?usp=sharing)
+* SLAM generating semantic cloud: [video](https://drive.google.com/file/d/13WXFYHC0hlNgMXLzRmV7hypxP5TygQem/view?usp=sharing)
+* Navigating to sofa: [video](https://drive.google.com/file/d/1zIc7AbNamPJLpbrz8zDTxw0Pp96S0Rvh/view?usp=sharing)
+* Navigating to table: [video](https://drive.google.com/file/d/1H5fR3RUE8n3YiWmMPbDvjZMg4Z1dhT_6/view?usp=sharing)
