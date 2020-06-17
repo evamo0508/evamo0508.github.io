@@ -22,6 +22,10 @@ Skills
 
 Work experience
 ======
+* May 2020-Now: Computer Vision Intern
+  * **NVIDIA**, Seattle, Washington
+  * Working under the mapping team of Autonomous Vehicle Department
+  
 * Feb-Jun 2019: Machine Learning Intern
   * **Cardinal Blue Software**, Taipei, Taiwan
   * Trained a semantic segmentation model with Mobilenetv2 structure that cut out people from an image and deployed
@@ -35,6 +39,9 @@ it to the PicCollage mobile app.
 
 Selected Projects
 =====
+* [**AutoValet - Autonomous Parking System in Indoor Environment**](https://mrsdprojects.ri.cmu.edu/2020teami/), Carnegie Mellon University, Sep 2019-Now
+  * The goal is to perform SLAM in an unknown indoor parking garage and combine geometrically constrained exploration with navigation to find an empty parking spot.
+  * An ongoing capstone project where I am currently responsible for Gazebo simulation, lane detection, and SLAM.
 * [**Visual Search with Semantic Segmentation on ORB SLAM**](https://evamo0508.github.io/projects/visual_search), National Taiwan University, Sep 2018-Jun 2019
   * Combined ORB SLAM and semantic segmentation on each frame into a real-time system that builds semantic point
 cloud
