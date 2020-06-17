@@ -32,7 +32,7 @@ Work experience
 it to the PicCollage mobile app.
   * Achieved 83% IOU with model size <10mb, 6% better than the official released version.
 
-* Jul-Aug 2018 2018: Summer Intern
+* Jul-Aug 2018: Summer Intern
   * **Coretronic Corporation**, Hsinchu, Taiwan
   * Constructed independently a monocular visual odometry system aimed for drones.
   * Implemented ORB feature extraction with OpenCV and local pose optimization with G2O in C++.
