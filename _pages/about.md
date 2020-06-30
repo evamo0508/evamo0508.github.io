@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Szu-Yu (Eva) Mo (莫絲羽) from Taiwan. Currently I am pursuing my Master's in Robotic Systems Development ([MRSD](https://mrsd.ri.cmu.edu/)) through the School of Computer Science at Carnegie Mellon University. Please feel free to browse my homepage and contact me. 
+I am Szu-Yu (Eva) Mo (莫絲羽) from Taiwan. Currently I am pursuing a Master's Degree in Robotic Systems Development ([MRSD](https://mrsd.ri.cmu.edu/)). I am studying in the School of Computer Science at Carnegie Mellon University. Please feel free to contact me if you wish. 
 
 I received a Bachelor of Science in Electrical Engineering from National Taiwan University ([NTUEE](https://web.ee.ntu.edu.tw/)) in 2019. Through my undergraduate research at [Intelligent Robot Lab](https://robotlab.csie.ntu.edu.tw/) with Prof. [Li-Chen Fu](http://www.ee.ntu.edu.tw/bio?id=23), I became familiar with visual SLAM implemented with ROS and python and gained experiences with semantic segmentation, as well as projects regarding robots gaining social intelligence through reinforcement learning.
 
-I had two internship experiences. First, I worked as a summer intern at [Coretronic Corporation](https://www.coretronic.com) in Hsinchu, Taiwan, working on monocular visual SLAM. Later, I stayed at the startup company [PicCollage](https://piccollage.com/) as a machine learning engineer, developing semantic segmentation models for person cut out.
+I had two internship experiences and one ongoing. In my junior year, I was a summer intern at [Coretronic Corporation](https://www.coretronic.com) in Hsinchu, Taiwan, working on monocular visual SLAM. Later, I interned at [PicCollage](https://piccollage.com/)(it was first based at Silicon Valley but later moved to Taipei) as a machine learning engineer, developing semantic segmentation models for person cut out feature in the mobile app. As for now, I am working as a Computer Vision Intern at [Nvidia](https://www.nvidia.com/en-us/), enjoying the once-in-a-lifetime remote internship experience.
 
-In this website, I will not only share about my academic projects and engineering career, but also some demonstrations of my interests, including composing songs and assembling mechanical keyboards. Some blog posts regarding application for a US Robotics program and life as a master student in the States will also be updated.
+I am keeping an active Medium [account](https://medium.com/@evamo0508) & [publication](https://medium.com/momo%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%95%99%E5%AD%B8%E5%A4%A2), in which I would share my life journey of studying abroad and becoming a software engineer in the self-driving industry (these contents would mostly be written in Mandarin). Aside from those, I shared some nerdy projects or tips from time to time too (written in English). I would love any feedbacks/interactions if you feel like my writings do relate to you in any ways. Nice to meet you!
 
 ![Graduation](/images/graduation.jpg "Graduation")
 
