@@ -13,7 +13,9 @@ I received a Bachelor of Science in Electrical Engineering from National Taiwan 
 
 I had two internship experiences and one ongoing. In my junior year, I was a summer intern at [Coretronic Corporation](https://www.coretronic.com) in Hsinchu, Taiwan, working on monocular visual SLAM. Later, I interned at [PicCollage](https://piccollage.com/)(it was first based at Silicon Valley but later moved to Taipei) as a machine learning engineer, developing semantic segmentation models for person cut out feature in the mobile app. As for now, I am working as a Computer Vision Intern at [Nvidia](https://www.nvidia.com/en-us/), enjoying the once-in-a-lifetime remote internship experience.
 
-I am keeping an active Medium [account](https://medium.com/@evamo0508) & [publication](https://medium.com/momo%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%95%99%E5%AD%B8%E5%A4%A2), in which I would share my life journey of studying abroad and becoming a software engineer in the self-driving industry (these contents would mostly be written in Mandarin). Aside from those, I shared some nerdy projects or tips from time to time too (written in English). I would love any feedbacks/interactions if you feel like my writings do relate to you in any ways. Nice to meet you!
+I am keeping an active Medium [account](https://medium.com/@evamo0508) & [publication](https://medium.com/momo%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%95%99%E5%AD%B8%E5%A4%A2), in which I would share my life journey of studying abroad and becoming a software engineer in the self-driving industry (these contents would mostly be written in Mandarin, but Google Translate would be sufficient enough to grasp the ideas). Aside from those, I shared some nerdy projects or tips from time to time too (written in English). I would love any feedbacks/interactions if you feel like my writings do relate to you in any ways. 
+
+Nice to meet you! Together, let's build a better world.
 
 ![Graduation](/images/graduation.jpg "Graduation")
 
