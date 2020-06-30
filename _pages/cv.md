@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * M.S. in Robotics System Development, **Carnegie Mellon University**, School of Computer Science, 2021
 * B.S. in Electrical Engineering, **National Taiwan University**, 2019
 
-Skills
+## Skills
 ======
 * Programming Languages: **Python**, **ROS**, C/C++, Verilog, LaTex
 * Tools: OpenCV, MATLAB, Pytorch, Tensorflow, Labview
 * Computing Environments: Linux, Windows, MacOS, Arduino, Raspberry Pi
 
-Work experience
+## Work experience
 ======
 * May 2020-Now: Computer Vision Intern
   * **NVIDIA**, Seattle, Washington
@@ -37,7 +37,7 @@ it to the PicCollage mobile app.
   * Constructed independently a monocular visual odometry system aimed for drones.
   * Implemented ORB feature extraction with OpenCV and local pose optimization with G2O in C++.
 
-Selected Projects
+## Selected Projects
 =====
 * [**AutoValet - Autonomous Parking System in Indoor Environment**](https://mrsdprojects.ri.cmu.edu/2020teami/), Carnegie Mellon University, Sep 2019-Now
   * The goal is to perform SLAM in an unknown indoor parking garage and combine geometrically constrained exploration with navigation to find an empty parking spot.
@@ -56,7 +56,7 @@ nothing.
   * Trained a convolutional neuron network to recognize sign language videos.
   * Implemented the system to a service humanoid robot to assist deaf and speech-impaired people.
 
-Leadership & Awards
+## Leadership & Awards
 ======
 * **STMicroelectronics Sponsor Prize**, 2019 MakeNTU LAzITech Hackathon, Mar 2019
 * **Academic Coordinator**, [Electrical Engineering Student Association](https://www.facebook.com/ntuee.org/), National Taiwan University, Sep 2017-Jun 2018
