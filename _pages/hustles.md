@@ -15,7 +15,7 @@ redirect_from:
   * The journey began in 2019 when I decided to publish [a series of articles](https://medium.com/momo%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%95%99%E5%AD%B8%E5%A4%A2/application/home) teaching people how to apply for MS programs in the US.
   * I have been actively updating my publication page, which now includes stories of my studying abroad experience and retrospects as well as some engineering stuff.
   * My goal is to simply become a person full of stories and to constantly share it with others.
-* Books Study Group
+* Book Club
   * Team of 7, friends in NTU.
   * Starting from Sep 8, 2020, we meet (virtually) every other week with the first hour discussing some chapters in a book and the other hour debating over some current issues.
   * Books read: 
