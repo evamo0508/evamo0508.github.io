@@ -38,3 +38,7 @@ redirect_from:
   * Led a team over 70 members to organize this 5-day hackathon about AI for undergraduates all over Taiwan.
   * Touched base with Ministry of Education, Ministry of Science and Technology, Industrial Technology Research Insti- tute, and plenty of companies for partnership and sponsorship.
   * Check our website [here](https://make.ntuee.org/) and Facebook fanpage [here](https://www.facebook.com/makentu.ntuee/).
+* Robotics留美領航計畫
+  * A program held by 3 friends of mine and myself from UMich and CMU to assist students still in undergrad to apply for Robotics program in the US.
+  * This program started in 2019, and most of the applicants have just gone through the application process and are waiting for their admissions!
+  * [Facebook group](https://www.facebook.com/groups/2240391029329975)
