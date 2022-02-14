@@ -16,12 +16,14 @@ redirect_from:
   * I have been actively updating my publication page, which now includes stories of my studying abroad experience and retrospects as well as some engineering stuff.
   * My goal is to simply become a person full of stories and to constantly share it with others.
 * Book Club
-  * Team of 7, friends in NTU.
+  * Team of 9, friends in NTU.
   * Starting from Sep 8, 2020, we meet (virtually) every other week with the first hour discussing some chapters in a book and the other hour debating over some current issues.
   * Books read: 
     * [Principle: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by Ray Dalio
     * [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy) by Avinash K. Dixit and Barry J. Nalebuff
-  * Currently reading: [投資至簡](https://www.books.com.tw/products/CN11714231?loc=P_0005_052)
+    * [投資至簡](https://www.books.com.tw/products/CN11714231?loc=P_0005_052) by 靜逸投資
+    * [Getting More: How You Can Negotiate to Succeed in Work and Life](https://gettingmore.com/) by Stuart Diamond
+  * Currently reading: [21 Lessons For The 21ST Century](https://www.ynharari.com/book/21-lessons-book/) by Yuval Noah Harari
 * Learning-based 3D Reconstruction Paper Study Group
   * Team of 6, friends in CMU and NTU.
   * A study group that just started recently (Feb 26, 2021), and we meet every other week (virtually) for one paper discussion.
@@ -32,6 +34,7 @@ redirect_from:
   * Will act as my personal study notes in this realm.
 * 駭腦計畫 Project: Hack-Your-Brain
   * My partner and I are working on launching a digital planner product (aiming May 2021).
+  * update: our MVP is on air! Buy the product at NTD$199 [here](https://shopee.tw/%E3%80%90Palettee%E3%80%912022%E9%9B%BB%E5%AD%90%E6%89%8B%E5%B8%B3%EF%BD%9C%E5%B9%B4%E6%9C%88%E9%80%B1%E6%97%A5%E8%A8%88%E7%95%AB%EF%BD%9C%E6%AF%8F%E6%97%A5%E5%8F%AF%E8%B7%B3%E8%BD%89%E6%A8%A1%E6%9D%BF%EF%BD%9CGoodnotes%EF%BD%9CNotability%08%EF%BD%9CiPad-i.35126375.14500462009?sp_atk=154b01dc-18f4-4536-a3a6-7bab8c296138)
 
 ## Archived Projects
 * 2018 MakeNTU AInsight Hackathon
