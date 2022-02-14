@@ -19,8 +19,11 @@ redirect_from:
 * Computing Environments: Linux, Windows, MacOS, Arduino, Raspberry Pi
 
 ## Work experience
+* Jul 2021-Present: Computer Vision Engineer
+  * **NVIDIA**, Redmond, WA
+  * Returned as a full-time employee
 * May-Aug 2020: Computer Vision Intern
-  * **NVIDIA**, Seattle, Washington
+  * **NVIDIA**, Redmond, WA
   * Working under the mapping team of Autonomous Vehicle Department
   
 * Feb-Jun 2019: Machine Learning Intern
