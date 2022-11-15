@@ -23,7 +23,9 @@ redirect_from:
     * [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy) by Avinash K. Dixit and Barry J. Nalebuff
     * [投資至簡](https://www.books.com.tw/products/CN11714231?loc=P_0005_052) by 靜逸投資
     * [Getting More: How You Can Negotiate to Succeed in Work and Life](https://gettingmore.com/) by Stuart Diamond
-  * Currently reading: [21 Lessons For The 21ST Century](https://www.ynharari.com/book/21-lessons-book/) by Yuval Noah Harari
+    * [21 Lessons For The 21ST Century](https://www.ynharari.com/book/21-lessons-book/) by Yuval Noah Harari
+  * Online courses taken:
+    * [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) by Yale University  
 * Learning-based 3D Reconstruction Paper Study Group
   * Team of 6, friends in CMU and NTU.
   * A study group that just started recently (Feb 26, 2021), and we meet every other week (virtually) for one paper discussion.
@@ -45,3 +47,7 @@ redirect_from:
   * A program held by 3 friends of mine and myself from UMich and CMU to assist students still in undergrad to apply for Robotics program in the US.
   * This program started in 2019, and most of the applicants have just gone through the application process and are waiting for their admissions!
   * [Facebook group](https://www.facebook.com/groups/2240391029329975)
+
+## Podcast Exposure
+* 矽谷 · 一千〇一夜 - [第 43 話｜機器人與自駕車 Momo 專訪](https://podcasts.apple.com/us/podcast/%E7%AC%AC-43-%E8%A9%B1-%E6%A9%9F%E5%99%A8%E4%BA%BA%E8%88%87%E8%87%AA%E9%A7%95%E8%BB%8A-momo-%E5%B0%88%E8%A8%AA/id1561663510?i=1000563738229)
+* 雅圖雜貨店 - [EP18｜我只是想當個帥女生 ft.Momo](https://podcasts.apple.com/us/podcast/ep18-%E6%88%91%E5%8F%AA%E6%98%AF%E6%83%B3%E7%95%B6%E5%80%8B%E5%B8%A5%E5%A5%B3%E7%94%9F-ft-momo/id1623740028?i=1000582493857)
