@@ -18,6 +18,10 @@ redirect_from:
 * Book Club
   * Team of 9, friends in NTU.
   * Starting from Sep 8, 2020, we meet (virtually) every other week with the first hour discussing some chapters in a book and the other hour debating over some current issues.
+  * We started a podcast named 九逃狼讀書會 recording our discussion, you can now listen on:
+    * [Apple Podcast](https://podcastsconnect.apple.com/my-podcasts/show/%E4%B9%9D%E9%80%83%E7%8B%BC%E8%AE%80%E6%9B%B8%E6%9C%83/9657e2b2-67d3-4998-90b6-2285697a8ee4)
+    * [Spotify](https://open.spotify.com/show/3a7dCBbSWVkacYOnAFbgs1)
+    * [Anchor](https://anchor.fm/eva-mo)
   * Books read: 
     * [Principle: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by Ray Dalio
     * [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy) by Avinash K. Dixit and Barry J. Nalebuff
