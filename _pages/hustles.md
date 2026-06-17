@@ -10,6 +10,13 @@ redirect_from:
 {% include base_path %}
 
 ## Ongoing Projects
+* [TransFOMO](https://transfomo.app)
+  * A social app I'm building — think "Partiful, but for introverts." It helps hosts throw events everyone actually shows up to, with anonymous leave signals, ride-share matching, and real-time guest lists so even the quieter friends feel welcome enough to say yes. Works just as well for 4 people grabbing boba as for 40 at a house party.
+  * Cross-platform mobile app built with Flutter.
+  * Currently in internal beta testing — anyone interested in any way is more than welcome to [reach out](mailto:evamo.tw1@gmail.com)!
+* [momo_collection_](https://www.instagram.com/momo_collection_/)
+  * My public Instagram account, where I post VLOGs and posts about quitting my job at NVIDIA, building a life I actually want, and the startup life I'm gradually getting into.
+  * Come follow along and say hi!
 * [MoMo的機器人留學夢](https://medium.com/momo%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%95%99%E5%AD%B8%E5%A4%A2/%E6%96%87%E5%8C%96%E8%A1%9D%E7%AA%81%E8%88%87%E8%AA%8D%E5%90%8C-%E7%95%99%E7%BE%8E%E7%AC%AC%E4%BA%8C%E5%B9%B4-21ac544c70de)
   * Writer on [Medium](https://medium.com/). Personal page [here](https://evamo0508.medium.com/).
   * The journey began in 2019 when I decided to publish [a series of articles](https://medium.com/momo%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%95%99%E5%AD%B8%E5%A4%A2/application/home) teaching people how to apply for MS programs in the US.
@@ -18,29 +25,26 @@ redirect_from:
 * Book Club
   * Team of 9, friends in NTU.
   * Starting from Sep 8, 2020, we meet (virtually) every other week with the first hour discussing some chapters in a book and the other hour debating over some current issues.
-  * We started a podcast named 九逃狼讀書會 recording our discussion, you can now listen on:
-    * [Apple Podcast](https://podcastsconnect.apple.com/my-podcasts/show/%E4%B9%9D%E9%80%83%E7%8B%BC%E8%AE%80%E6%9B%B8%E6%9C%83/9657e2b2-67d3-4998-90b6-2285697a8ee4)
-    * [Spotify](https://open.spotify.com/show/3a7dCBbSWVkacYOnAFbgs1)
-    * [Anchor](https://anchor.fm/eva-mo)
   * Books read: 
     * [Principle: Life and Work](https://www.goodreads.com/book/show/34536488-principles) by Ray Dalio
     * [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy) by Avinash K. Dixit and Barry J. Nalebuff
     * [投資至簡](https://www.books.com.tw/products/CN11714231?loc=P_0005_052) by 靜逸投資
     * [Getting More: How You Can Negotiate to Succeed in Work and Life](https://gettingmore.com/) by Stuart Diamond
     * [21 Lessons For The 21ST Century](https://www.ynharari.com/book/21-lessons-book/) by Yuval Noah Harari
+    * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) by Max Tegmark
+    * [Chip War: The Fight for the World's Most Critical Technology](https://www.goodreads.com/book/show/60321447-chip-war) by Chris Miller
+    * [Justice: What's the Right Thing to Do?](https://www.goodreads.com/book/show/6452731-justice) by Michael J. Sandel
+    * [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) by Morgan Housel
+    * [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/34466963-why-we-sleep) by Matthew Walker
+    * [Four Pillars of Jungian Psychoanalysis](https://www.goodreads.com/book/show/60690880-four-pillars-of-jungian-psychoanalysis) by Murray Stein
+    * [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/3450744-nudge) by Richard H. Thaler and Cass R. Sunstein
+    * [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager) by Julie Zhuo
+    * [Nexus: A Brief History of Information Networks from the Stone Age to AI](https://www.goodreads.com/book/show/204927599-nexus) by Yuval Noah Harari
+    * [How to Win a Grand Prix: From Pit Lane to Podium](https://www.goodreads.com/book/show/200490426-how-to-win-a-grand-prix) by Bernie Collins
+    * [Why Politics Fails](https://www.goodreads.com/book/show/61756929-why-politics-fails) by Ben W. Ansell
+    * [Thinking in Systems: A Primer](https://www.goodreads.com/book/show/3828902-thinking-in-systems) by Donella H. Meadows
   * Online courses taken:
     * [Introduction to Psychology](https://www.coursera.org/learn/introduction-psychology) by Yale University  
-* Learning-based 3D Reconstruction Paper Study Group
-  * Team of 6, friends in CMU and NTU.
-  * A study group that just started recently (Feb 26, 2021), and we meet every other week (virtually) for one paper discussion.
-
-## Projects In The Work
-* [AboutSelfDriving Website](https://aboutselfdriving.com/)
-  * A website dedicated to educate people about basic understandings of self-driving.
-  * Will act as my personal study notes in this realm.
-* 駭腦計畫 Project: Hack-Your-Brain
-  * My partner and I are working on launching a digital planner product (aiming May 2021).
-  * update: our MVP is on air! Buy the product at NTD$199 [here](https://shopee.tw/%E3%80%90Palettee%E3%80%912022%E9%9B%BB%E5%AD%90%E6%89%8B%E5%B8%B3%EF%BD%9C%E5%B9%B4%E6%9C%88%E9%80%B1%E6%97%A5%E8%A8%88%E7%95%AB%EF%BD%9C%E6%AF%8F%E6%97%A5%E5%8F%AF%E8%B7%B3%E8%BD%89%E6%A8%A1%E6%9D%BF%EF%BD%9CGoodnotes%EF%BD%9CNotability%08%EF%BD%9CiPad-i.35126375.14500462009?sp_atk=154b01dc-18f4-4536-a3a6-7bab8c296138)
 
 ## Archived Projects
 * 2018 MakeNTU AInsight Hackathon

@@ -9,23 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+[Download my resume as PDF](/files/Eva_Mo_resume_2026.pdf){: .btn .btn--info}
+
 ## Education
 * M.S. in Robotics System Development, **Carnegie Mellon University**, School of Computer Science, 2021
 * B.S. in Electrical Engineering, **National Taiwan University**, 2019
 
 ## Skills
-* Programming Languages: **Python**, **ROS**, C/C++, Verilog, LaTex
-* Tools: OpenCV, MATLAB, Pytorch, Tensorflow, Labview
-* Computing Environments: Linux, Windows, MacOS, Arduino, Raspberry Pi
+* Programming Languages: **Python**, **C/C++**, **ROS**, SQL
+* Tools: OpenCV, Pytorch, Bazel, Docker
+* Computing Environments: Linux, Windows, MacOS
 
 ## Work experience
-* Jul 2021-Present: Computer Vision Engineer
+* Apr 2026-Present: CTO / Founding Engineer
+  * [**Athleo.ai**](https://athleo.ai/), an AI-powered sports video storytelling platform that turns raw sports footage into professional-quality highlights.
+  * Developing the **TransFOMO** app as a pet project on the side.
+  * Open to interesting robotics / computer vision job opportunities.
+
+* Jun 2023-Apr 2026: Senior Computer Vision Engineer (Auto-labeling team)
   * **NVIDIA**, Redmond, WA
-  * Returned as a full-time employee
-* May-Aug 2020: Computer Vision Intern
+  * Developed a 4D multi-object tracking autolabeling pipeline for autonomous vehicles (AV) by integrating perception results from LiDAR or camera, with production-level ML model evaluation and release/deployment.
+  * Constructed the cuboid data ingestion pipeline with sensor fusion and motion compensation for LiDAR.
+  * Built visualization tools for overlaying cuboids on LiDAR/camera and Redash dashboards for KPI tracking.
+  * Person-in-charge for pipeline bring-up on a new sensor suite.
+
+* Jul 2021-Jun 2023: Computer Vision Engineer (mapping team)
   * **NVIDIA**, Redmond, WA
-  * Working under the mapping team of Autonomous Vehicle Department
-  
+  * Optimized the in-car real-time mapping software, reducing 31% of memory bandwidth without losing useful information downstream while still meeting product requirements.
+  * Implemented lane graph generation for an offline AV HD mapping system with complex BFS & DFS algorithms.
+  * Contributed to system design, software optimization, and testing to improve mapping accuracy and efficiency.
+
+* May-Aug 2020: Computer Vision Intern (mapping team)
+  * **NVIDIA**, Redmond, WA
+  * Designed and implemented the wait-line detection pipeline for NVIDIA's in-car mapping system.
+
 * Feb-Jun 2019: Machine Learning Intern
   * **Cardinal Blue Software**, Taipei, Taiwan
   * Trained a semantic segmentation model with Mobilenetv2 structure that cut out people from an image and deployed
@@ -38,7 +55,7 @@ it to the PicCollage mobile app.
   * Implemented ORB feature extraction with OpenCV and local pose optimization with G2O in C++.
 
 ## Selected Projects
-* [**AutoValet - Autonomous Parking System in Indoor Environment**](https://mrsdprojects.ri.cmu.edu/2020teami/), Carnegie Mellon University, Sep 2019-Now
+* [**AutoValet - Autonomous Parking System in Indoor Environment**](https://mrsdprojects.ri.cmu.edu/2020teami/), Carnegie Mellon University, Sep 2019-May 2021
   * Made the robot Husky perform SLAM in an unknown indoor parking garage and combine geometrically constrained exploration with navigation to find an empty parking spot, and park itself accurately.
   * Contributed in building Gazebo simulation, visual lane detection, parking algorithms, robot exploration, and SLAM.
 * [**Visual Search with Semantic Segmentation on ORB SLAM**](https://evamo0508.github.io/projects/visual_search), National Taiwan University, Sep 2018-Jun 2019

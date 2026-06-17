@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Szu-Yu Mo"
-  avatar           : "circleAvatar.png"
-  bio              : "Computer vision engineer in self-driving @ Nvidia. Carnegie Mellon Robotics MRSD Alumni. Interested in SLAM & Computer Vision in self-driving cars."
-  location         : "Bellevue, WA"
+  avatar           : "profile-2026.jpg"
+  bio              : "CTO / Founding Engineer @ Athleo.ai (AI sports highlights). Building the TransFOMO app. Ex-CV engineer in self-driving @ Nvidia. Carnegie Mellon Robotics MRSD alum. Open to interesting robotics/CV roles."
+  location         : "Bothell, WA"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "EvaMO47573366"
+  twitter          :
   vine             :
   weibo            :
   xing             :
