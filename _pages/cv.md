@@ -11,6 +11,8 @@ redirect_from:
 
 [Download my resume as PDF](/files/Eva_Mo_resume_2026.pdf){: .btn .btn--info}
 
+After nearly five years building computer vision and mapping systems for autonomous vehicles at NVIDIA, I recently left to pursue the startup path. I'm now CTO / Founding Engineer at [Athleo.ai](https://athleo.ai/), an AI-powered sports video storytelling platform, while developing the [TransFOMO](https://transfomo.app/) app as a pet project on the side. I'm always happy to connect — and remain open to interesting robotics / computer vision opportunities.
+
 ## Education
 * M.S. in Robotics System Development, **Carnegie Mellon University**, School of Computer Science, 2021
 * B.S. in Electrical Engineering, **National Taiwan University**, 2019
@@ -23,8 +25,6 @@ redirect_from:
 ## Work experience
 * Apr 2026-Present: CTO / Founding Engineer
   * [**Athleo.ai**](https://athleo.ai/), an AI-powered sports video storytelling platform that turns raw sports footage into professional-quality highlights.
-  * Developing the **TransFOMO** app as a pet project on the side.
-  * Open to interesting robotics / computer vision job opportunities.
 
 * Jun 2023-Apr 2026: Senior Computer Vision Engineer (Auto-labeling team)
   * **NVIDIA**, Redmond, WA

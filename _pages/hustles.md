@@ -14,9 +14,12 @@ redirect_from:
   * A social app I'm building — think "Partiful, but for introverts." It helps hosts throw events everyone actually shows up to, with anonymous leave signals, ride-share matching, and real-time guest lists so even the quieter friends feel welcome enough to say yes. Works just as well for 4 people grabbing boba as for 40 at a house party.
   * Cross-platform mobile app built with Flutter.
   * Currently in internal beta testing — anyone interested in any way is more than welcome to [reach out](mailto:evamo.tw1@gmail.com)!
-* [momo_collection_](https://www.instagram.com/momo_collection_/)
-  * My public Instagram account, where I post VLOGs and posts about quitting my job at NVIDIA, building a life I actually want, and the startup life I'm gradually getting into.
+* [momo_collection_ on Instagram](https://www.instagram.com/momo_collection_/)
+  * My public Instagram account, where I post reflective VLOGs and posts about quitting my job at NVIDIA, building a life I actually want, and the startup life I'm gradually getting into.
   * Come follow along and say hi!
+* [momo_collection_ on YouTube](https://www.youtube.com/@momo_collection_)
+  * Same handle, totally different vibe! This is my YouTube channel where I shoot laid-back vlogs about camping and traveling adventures.
+  * Subscribe if you're into the great outdoors and wanderlust!
 * [MoMo的機器人留學夢](https://medium.com/momo%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%95%99%E5%AD%B8%E5%A4%A2/%E6%96%87%E5%8C%96%E8%A1%9D%E7%AA%81%E8%88%87%E8%AA%8D%E5%90%8C-%E7%95%99%E7%BE%8E%E7%AC%AC%E4%BA%8C%E5%B9%B4-21ac544c70de)
   * Writer on [Medium](https://medium.com/). Personal page [here](https://evamo0508.medium.com/).
   * The journey began in 2019 when I decided to publish [a series of articles](https://medium.com/momo%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%95%99%E5%AD%B8%E5%A4%A2/application/home) teaching people how to apply for MS programs in the US.
